@@ -1,0 +1,5 @@
+traicionada,5.7,novela
+bailando,4.8,baile
+tn,6.7,noticiero
+masterchef,8.3,cocina
+gotTalent,4.2,habilidades
